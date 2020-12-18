@@ -1,0 +1,48 @@
+/**
+ * http://applemusic.tumblr.com/
+ * https://jsfiddle.net/xq56dmrh/
+ */
+
+/** Ultra Light */
+@font-face {
+    font-family: "San Francisco Ultralight";
+    font-weight: 100;
+    src: url("../fonts/SF-UI-Display-Ultralight.otf");
+
+}
+
+/** Thin */
+@font-face {
+    font-family: "San Francisco Thin";
+    font-weight: 200;
+    src: url("../fonts/SF-UI-Display-Thin.otf");
+}
+
+/** Regular */
+@font-face {
+    font-family: "San Francisco Regular";
+    font-weight: 400;
+    src: url("../fonts/SF-UI-Text-Regular.otf");
+}
+
+/** Medium */
+@font-face {
+    font-family: "San Francisco Medium";
+    font-weight: 500;
+    src: url("../fonts/SF-UI-Text-Medium.otf");
+}
+
+/** Semi Bold */
+@font-face {
+    font-family: "San Francisco Semibold";
+    font-weight: 600;
+    src: url("../fonts/SF-UI-Text-Semibold.otf");
+}
+
+/** Bold */
+@font-face {
+    font-family: "San Francisco Bold";
+    font-weight: 700;
+    src: url("../fonts/SF-UI-Text-Bold.otf");
+}
+
